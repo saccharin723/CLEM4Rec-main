@@ -1,0 +1,5 @@
+eta: 0.8
+gamma: 0.2
+beta: 0.2
+stopping_step: 10
+train_batch_size: 512
